@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Supremo Tribunal de Justicia del Poder Judicial del Estado de Aguascalientes</string>
+    <string name="title_activity_custom_scanner">"QR "</string>
+    <string name="turn_on_flashlight">Encender Flash</string>
+    <string name="mensaje_de_scanner">Holograma</string>
+    <string name="turn_off_flashlight">Apagar Flash</string>
+    <string name="focus_off_con">Apagar Auto Focus</string>
+    <string name="focus_on_con">Encender Auto Focus</string>
+    <string name="beep_on">Encender beep</string>
+    <string name="beep_off">Apagar beep</string>
+
+    <string name="vibra_on">Encender vibracion</string>
+    <string name="vibra_off">Apagar vibracion</string>
+    <string name="vacio">___</string>
+
+    <string name="document">Documento</string>
+    <string name="invalid">Inválido</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="user">Usuario:</string>
+    <string name="pass">Contraseña:</string>
+    <string name="acc">Acceder</string>
+    <string name="app_name2">computerforms.mx</string>
+</resources>
